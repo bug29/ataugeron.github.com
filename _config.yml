@@ -16,8 +16,8 @@ description: Alexis Taugeron's personal blog and contact information.
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_rss: http://feeds.feedburner.com/ataugeron
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=ataugeron
 # RSS feeds can list your email address if you like
 email:
 
