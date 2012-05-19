@@ -1,16 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Alexis Taugeron]]></title>
   <link href="http://ataugeron.github.com/atom.xml" rel="self"/>
   <link href="http://ataugeron.github.com/"/>
-  <updated>2012-05-14T21:23:49+02:00</updated>
+  <updated>2012-05-19T23:35:59+02:00</updated>
   <id>http://ataugeron.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alexis Taugeron]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Between Stimulus and Response]]></title>
+    <link href="http://ataugeron.github.com/blog/2012/02/27/between-stimulus-and-response/"/>
+    <updated>2012-02-27T17:02:00+01:00</updated>
+    <id>http://ataugeron.github.com/blog/2012/02/27/between-stimulus-and-response</id>
+    <content type="html"><![CDATA[<p>I recently finished the book <a href="http://www.amazon.com/gp/product/0743269519/ref=as_li_ss_tl?ie=UTF8&amp;tag=alexistaugero-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0743269519">The 7 Habits of Highly Effective People</a> , by Stephen R. Covey. If you’re interested in improving yourself and didn’t get to read this classic yet, I strongly recommend it. I didn’t find everything useful in the book, but I love the framework it provides. It’s both conceptually meaningful and practically actionable. It has helped me improve several aspects of my life. I won’t spoil you the whole book and tell you what the 7 Habits are, but I want to share with you one idea I loved in the first chapter.</p>
+
+<p><em>Disclaimer: This article contains affiliate links.</em></p>
+
+<!-- more -->
+
+
+<p>The first habit Covey presents is “Be Proactive”. In order to illustrate one of the ideas embodied in this concept, he tells us about the inspiring story of Viktor Frankl, an Austrian psychiatrist who survived the Holocaust. While suffering the horrors of the death camps, he learned a powerful lesson:</p>
+
+<blockquote><p>One day, naked and alone in a small room, he began to become aware of what he later called “the last of the human freedoms” — the freedom his Nazi captors could not take away. They could control his entire environment, they could do what they wanted to his body, but Viktor Frankl himself was a self-aware being who could look as an observer at his very involvement. His basic identity was intact. He could decide within himself how all of this was going to affect him. Between what happened to him, or the stimulus, and his response to it, was his freedom or power to choose that response.</p><footer><strong>Stephen R. Covey</strong> <cite><a href='http://www.amazon.com/gp/product/0743269519/ref=as_li_ss_tl?ie=UTF8&tag=alexistaugero-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0743269519'>The 7 Habits of Highly Effective People</a></cite></footer></blockquote>
+
+
+<p>Viktor Frankl himself wrote:</p>
+
+<blockquote><p>Everything can be taken from a man but one thing: the last of the human freedoms-to choose one&#8217;s attitude in any given set of circumstances, to choose one&#8217;s own way.</p><footer><strong>Viktor Frankl</strong> <cite><a href='http://www.amazon.com/gp/product/0807014273/ref=as_li_ss_tl?ie=UTF8&tag=alexistaugero-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0807014273'>Man&#8217;s Search for Meaning</a></cite></footer></blockquote>
+
+
+<p><img class="center" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viktor_Frankl2.jpg/220px-Viktor_Frankl2.jpg" title="Viktor Frankl" ></p>
+
+<p>These sentences had a big impact on me. I’ve never been in a situation nearly as harsh as what Frankl lived, but I get my share of hassles, just like everyone else. Since that reading, I made a habit of taking a step back whenever something happens to me, and consciously decide how I am going to react, rather than letting the events dictate my mood. Easy to say, hard to do&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How I Learned to Type Really Fast with Less Effort]]></title>
+    <link href="http://ataugeron.github.com/blog/2012/02/06/how-i-learned-to-type-really-fast-with-less-effort/"/>
+    <updated>2012-02-06T10:00:00+01:00</updated>
+    <id>http://ataugeron.github.com/blog/2012/02/06/how-i-learned-to-type-really-fast-with-less-effort</id>
+    <content type="html"><![CDATA[<p>As my <a href="http://10fastfingers.com/user/37311/">10fastfingers profile</a> can attest, my average typing speed in English is 90 wpm (words per minute). To give you some context, the world record is 216 wpm, an average typing speed is around 30-40 wpm, and jobs like secretary often require a typing speed around 50-80 wpm. (Source: <a href="http://en.wikipedia.org/wiki/Words_per_minute">Wikipedia</a>)</p>
+
+<p>How did I manage to reach this speed? The answer is simple: I switched to the Dvorak keyboard layout.</p>
+
+<!-- more -->
+
+
+<p>For historical reasons, most people use the QWERTY layout. This layout was designed in the 1870s to put commonly used letter-pairs far from each other so as to prevent jams in old typewriters. If it made sense back then, it is now completely suboptimal with our modern keyboards. And yet, most people still use it, just because it’s there&#8230; There are two things wrong with this layout that purposely makes your fingers travel more over the keyboard. First, it makes you type slower. Second, it makes you more likely to get repetitive strain injuries like <a href="http://en.wikipedia.org/wiki/Carpal_tunnel_syndrome">carpal tunnel syndrome</a> (CTS).</p>
+
+<p>In April 2011, a colleague introduced me to the Dvorak layout. He actually got CTS after years of programming, and this layout helped him solve this problem. The Dvorak layout, developed in the 1930s, is designed so that the most commonly used letters are on the middle row, where your fingers usually rest. Letters are arranged so as to alternate between each hand. It results in a very balanced and fluid way of typing, that requires much less fingers movements than the QWERTY layout. Typing in Dvorak is not only efficient, it’s enjoyable. That was enough to convince me to give it a try.</p>
+
+<p>Here is how this layout looks like:</p>
+
+<p><img src="http://4.bp.blogspot.com/_dv5nz9-JGWk/TTcN7HL6nRI/AAAAAAAAACo/RcuLgErk-js/s1600/dvorak.png" title="&#34;The Dvorak Keyboard Layout&#34;" alt="&#34;The Dvorak Keyboard Layout&#34;"></p>
+
+<p>And here’s a video of someone typing in Dvorak. Look how little his fingers move:</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Ds98JcaGrLA" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Making the switch was no easy task. The first week was a pain in the ass, but I was determined. In order to memorize the layout, I used the Mac keyboard viewer during the first two days. It then took me about three weeks to get back to my initial productivity. Ten months later, I’m still typing in Dvorak, and I love it! There’s no way I go back.</p>
+
+<p>I’m glad I invested some time and efforts in learning this skill that not only allows me to type faster, but also makes me actually enjoy typing. As a side note, here’s a funny outcome I noticed: since I type in Dvorak but my physical keyboard is in QWERTY, the labels on the keys I press have nothing to do with what I actually type. That means nobody can spy over my shoulder to steal my passwords. Ah ah, who said I’m paranoid?</p>
+]]></content>
+  </entry>
   
 </feed>
