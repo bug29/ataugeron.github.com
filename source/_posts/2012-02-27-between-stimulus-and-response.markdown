@@ -8,8 +8,6 @@ categories:
 
 I recently finished the book [The 7 Habits of Highly Effective People](http://www.amazon.com/gp/product/0743269519/ref=as_li_ss_tl?ie=UTF8&tag=alexistaugero-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0743269519) , by Stephen R. Covey. If you’re interested in improving yourself and didn’t get to read this classic yet, I strongly recommend it. I didn’t find everything useful in the book, but I love the framework it provides. It’s both conceptually meaningful and practically actionable. It has helped me improve several aspects of my life. I won’t spoil you the whole book and tell you what the 7 Habits are, but I want to share with you one idea I loved in the first chapter.
 
-_Disclaimer: This article contains affiliate links._
-
 <!-- more -->
 
 The first habit Covey presents is “Be Proactive”. In order to illustrate one of the ideas embodied in this concept, he tells us about the inspiring story of Viktor Frankl, an Austrian psychiatrist who survived the Holocaust. While suffering the horrors of the death camps, he learned a powerful lesson:
